@@ -1,0 +1,58 @@
+.titulo{
+    color:rgb(0, 0, 0);
+    font-size: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+  
+
+.enlace{
+    background-color: antiquewhite;
+    color: black;
+    font-size: 20px;
+}
+
+.navegacion{
+    border-style: solid ;
+    border-width: 3px;
+    border-color: black;
+    margin: 20px 20px;
+    background-color: lightblue;
+}
+
+.navegacion ul{
+    list-style:none;
+}
+
+
+
+.parrafos{
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+.fondo{
+    background-color: #84c5ee;
+}
+
+.fondo1{
+    background-color: lightslategray;
+}
+
+.fondo2{
+    background-color: lightsteelblue;
+}
+
+.fondo3{
+    background-color: cornflowerblue;
+}
+
+.fondo4{
+    background-color: paleturquoise;
+}
+
+.fondo5{
+    background-color: beige;
+}
+
+
+    
